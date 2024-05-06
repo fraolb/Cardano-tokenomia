@@ -2,7 +2,7 @@
 <img src="./tokenomia-logo.png" width="500"  />
 
 Tokenomia is built for the Cardashift [ICO](https://ico.cardashift.com/), it aims to simplify the use of Native Tokens and Smart Contracts above the Cardano Platform.
-[Cardashift](https://cardashift.com/) is a community-driven startup platform that raises funds, builds and accelerates startups that solve social and environmental problems.
+[Cardashift](https://cardashift.com/) is a community-driven startup platform that raises funds, builds and accelerates startups that solve social and environmental problems..
 
 ## What you can do on (Testnet/Mainnet)
  
